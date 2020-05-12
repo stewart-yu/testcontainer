@@ -1,1 +1,1 @@
-FROM gcr.io/tekton-releases/github.com/tektoncd/triggers/cmd/eventlistenersink@sha256:99a594c37c68cc3127ea3ebc03b03514727442fb6ed8818b49cc740bcb474f8e
+FROM gcr.io/knative-releases/github.com/knative/eventing-sources/cmd/event_display
